@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:id="@+id/login_menu_group">
+     <item android:id="@+id/info"
+        android:orderInCategory="5"
+        android:title="Info"
+             android:icon="@drawable/text_plain"/>
+     <item android:id="@+id/exit"
+        android:icon="@drawable/symbolic_link"
+        android:orderInCategory="5"
+        android:title="exit" />
+  </group>
+</menu>

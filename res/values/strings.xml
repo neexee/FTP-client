@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string
+        name="app_name">Ftp-client</string>
+    <string
+        name="label">Sample SyncAdapter</string>
+
+    <string
+        name="notification_login_error">Touch to sign into your Sample SyncAdapter account.</string>
+
+    <!-- Title string for Connect activity-->
+    <string
+        name="ui_activity_title">Sign-in</string>
+    <!-- Message shown in progress dialog while app connects to the server -->
+    <string
+        name="ui_activity_authenticating">Authenticating\u2026</string>
+
+    <!-- AuthenticatorActivity -->
+    <skip />
+    <!-- Label above username EditText -->
+    <string
+        name="login_activity_username_label">Username</string>
+    <!-- Label above password EditText -->
+    <string
+        name="login_activity_password_label">Password</string>
+    <!-- Button to sign in after entering username and password -->
+    <string
+            name="login_activity_host_label">Host</string>
+    <!-- Button to sign in after entering username and password -->
+    <string
+            name="login_activity_port_label">Port</string>
+    <!-- Button to sign in after entering username and password -->
+    <string
+        name="login_activity_ok_button">Log In</string>
+
+    <!-- Message shown in dialog if the username or password is invalid. -->
+    <string
+        name="login_activity_loginfail_text_both">The username or password isn\'t valid. Please try again. </string>
+    <!-- Message shown in dialog if the password is invalid -->
+    <string
+        name="login_activity_loginfail_text_pwonly">You entered the wrong password or your account has changed.
+        Please re-enter your password.</string>
+    <!-- Message shown in dialog to prompt the user for their password -->
+    <string
+        name="login_activity_loginfail_text_pwmissing">Type the password for this account.</string>
+
+    <string
+        name="sign_in_button_label">Sign in</string>
+    <!-- Button for going to the previous screen or step -->
+    <string
+        name="back_button_label">Back</string>
+    <!-- Button to cancel the current operation -->
+    <string
+        name="cancel_button_label">Cancel</string>
+    <string
+        name="current_dir">Dir:
+    </string>
+    <string
+        name="filename">Name</string>
+    <string
+        name="filesize">Size</string>
+    <string
+            name="modified">Last modified</string>
+    <string
+        name="menu_done">Done</string>
+    <string
+        name="menu_cancel">Cancel</string>
+
+    <skip />
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <group android:id="@+id/main_menu_group">
+     <item android:id="@+id/refresh"
+        android:orderInCategory="5"
+        android:icon="@drawable/update"
+        android:title="Refresh" />
+     <item android:id="@+id/upload_file"
+        android:orderInCategory="5"
+        android:icon="@drawable/shared"
+        android:title="Upload file" />
+  </group>
+</menu>
